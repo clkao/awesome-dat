@@ -15,7 +15,7 @@
 
 ## For the users
 
-- 📔[dat](https://github.com/maxogden/dat) - Main CLI and [project planning](https://github.com/maxogden/dat/issues).
+- 📔[dat](https://github.com/datproject/dat) - Main CLI and [project planning](https://github.com/datproject/dat/issues).
 - [dat-desktop](https://github.com/juliangruber/dat-desktop) - Dat Desktop App.
 
 ## Protocol & Network
