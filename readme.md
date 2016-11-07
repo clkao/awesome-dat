@@ -23,6 +23,7 @@
 - [specification](https://github.com/datproject/docs/blob/master/docs/hyperdrive_spec.md) - Hyperdrive + Hypercore Specification.
 - 📔[hypercore](https://github.com/mafintosh/hypercore) - Protocol and network for distributing and replicating feeds of binary data.
 - [hypercore-protocol](https://github.com/mafintosh/hypercore-protocol) - Stream that implements the hypercore protocol.
+- [RFC 7574 Peer to Peer Streaming Protocol](https://datatracker.ietf.org/doc/rfc7574/) - Aka PPSP. Underlying flat trees of Hypercore based off this RFC, and protocol has similarities.
 - 📔[hyperdrive](https://github.com/mafintosh/hyperdrive) - A file sharing network based on rabin file chunking and append only feeds of data verified by merkle trees.
 - [hyperdrive-archive-swarm](https://github.com/karissa/hyperdrive-archive-swarm) - Join the p2p swarm for a given hyperdrive archive.
 - [hyperdrive-ui](https://github.com/karissa/hyperdrive-ui) - Render a hyperdrive in the browser.
